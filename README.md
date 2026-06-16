@@ -109,13 +109,12 @@ public class MohdAzim extends BackendEngineer {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ariz565&theme=github_dark&include_all_commits=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohd-Azim&theme=github_dark&include_all_commits=true" width="100%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariz565&theme=github-dark-blue&hide_border=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Azim&theme=github-dark-blue&hide_border=false" width="49%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariz565&theme=github_dark&layout=compact&hide_border=false" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Azim&theme=github_dark&layout=compact&hide_border=false" width="44%" />
 </p>
 
 ---
