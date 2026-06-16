@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ariz565&label=Profile%20Views&countColor=%23F7A41D&style=for-the-badge" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Mohd-Azim&label=Profile%20Views&countColor=%23F7A41D&style=for-the-badge" />
   &nbsp;
   <a href="https://linkedin.com/in/mohd-azim">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -73,7 +73,9 @@ public class MohdAzim extends BackendEngineer {
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Apache%20Tomcat%209%2F10%2F11-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat%209%2F10%2F11-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 **AI Engineering**
 
@@ -111,6 +113,7 @@ public class MohdAzim extends BackendEngineer {
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohd-Azim&theme=github_dark&include_all_commits=true" width="100%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Azim&theme=github-dark-blue&hide_border=false" width="49%" />
   &nbsp;
