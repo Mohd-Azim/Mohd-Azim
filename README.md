@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=Mohd-Azim&label=Profile%20Views&countColor=%23F7A41D&style=for-the-badge" />
   &nbsp;
-  <a href="www.linkedin.com/in/mohd-azim-922373204">
+  <a href="https://www.linkedin.com/in/mohd-azim-922373204/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -137,7 +137,7 @@ public class MohdAzim extends BackendEngineer {
     <img src="https://img.shields.io/badge/Gmail-mohdazim6309%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/mohd-azim-922373204">
+  <a href="https://www.linkedin.com/in/mohd-azim-922373204/">
     <img src="https://img.shields.io/badge/LinkedIn-mohd--azim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
