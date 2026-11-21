@@ -61,123 +61,15 @@ public class MohdAzim extends BackendEngineer {
 
 ## 👨‍💻 Developer Workspace
 
+
+## 👨‍💻 Developer Workspace
+
 <p align="center">
-  <svg width="100%" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Developer sitting at a desk coding on a multi-monitor workstation">
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#101827"/>
-        <stop offset="100%" stop-color="#202F46"/>
-      </linearGradient>
-      <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#172D46"/>
-        <stop offset="100%" stop-color="#0B1424"/>
-      </linearGradient>
-      <linearGradient id="desk" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="#C17A36"/>
-        <stop offset="100%" stop-color="#70411F"/>
-      </linearGradient>
-    </defs>
-
-    <rect width="900" height="430" rx="22" fill="url(#bg)"/>
-
-    <!-- Ambient lights -->
-    <circle cx="150" cy="100" r="85" fill="#F7A41D" opacity=".06"/>
-    <circle cx="750" cy="90" r="100" fill="#00B8D9" opacity=".07"/>
-
-    <!-- Decorative code -->
-    <g font-family="monospace" font-size="12" fill="#61AFEF" opacity=".55">
-      <text x="35" y="55">public class Developer {</text>
-      <text x="55" y="75" fill="#98C379">buildScalableSystems();</text>
-      <text x="35" y="95">}</text>
-      <text x="725" y="65" fill="#C678DD">while (true) {</text>
-      <text x="745" y="85" fill="#98C379">keepCoding();</text>
-      <text x="725" y="105" fill="#C678DD">}</text>
-    </g>
-
-    <!-- Left monitor -->
-    <rect x="95" y="115" width="205" height="140" rx="9" fill="#080D17" stroke="#60758C" stroke-width="4"/>
-    <rect x="105" y="125" width="185" height="120" rx="3" fill="url(#screen)"/>
-    <g font-family="monospace" font-size="10">
-      <text x="117" y="147" fill="#E06C75">import</text>
-      <text x="153" y="147" fill="#61AFEF">java.util.*;</text>
-      <text x="117" y="165" fill="#C678DD">public class</text>
-      <text x="195" y="165" fill="#E5C07B">Service</text>
-      <text x="117" y="183" fill="#ABB2BF">{</text>
-      <text x="127" y="201" fill="#98C379">processRequest();</text>
-      <text x="127" y="219" fill="#61AFEF">return response;</text>
-      <text x="117" y="235" fill="#ABB2BF">}</text>
-    </g>
-    <path d="M180 255 L180 275 L215 275 L215 282 L180 282 L180 255" fill="#697D91"/>
-
-    <!-- Center monitor -->
-    <rect x="350" y="75" width="250" height="180" rx="10" fill="#080D17" stroke="#F7A41D" stroke-width="3"/>
-    <rect x="360" y="85" width="230" height="160" rx="4" fill="url(#screen)"/>
-    <g font-family="monospace" font-size="11">
-      <text x="374" y="108" fill="#F7A41D">// System Design</text>
-      <text x="374" y="129" fill="#61AFEF">API Gateway</text>
-      <path d="M430 134 L430 147" stroke="#98C379" stroke-width="1.5"/>
-      <rect x="390" y="148" width="80" height="22" rx="4" fill="#1E4961" stroke="#61AFEF"/>
-      <text x="399" y="163" fill="#DCEAF5">Kafka</text>
-      <path d="M430 170 L430 183 M430 183 L390 183 L390 191 M430 183 L470 183 L470 191" stroke="#98C379" fill="none"/>
-      <rect x="365" y="192" width="70" height="25" rx="4" fill="#293D53" stroke="#98C379"/>
-      <rect x="445" y="192" width="70" height="25" rx="4" fill="#293D53" stroke="#98C379"/>
-      <text x="372" y="208" fill="#98C379">Redis</text>
-      <text x="451" y="208" fill="#98C379">Service</text>
-      <text x="374" y="233" fill="#C678DD">Spring Boot | Java</text>
-    </g>
-    <path d="M460 255 L460 282 L495 282 L495 289 L460 289 L460 255" fill="#697D91"/>
-
-    <!-- Right monitor -->
-    <rect x="640" y="115" width="170" height="140" rx="9" fill="#080D17" stroke="#60758C" stroke-width="4"/>
-    <rect x="650" y="125" width="150" height="120" rx="3" fill="url(#screen)"/>
-    <g font-family="monospace" font-size="10">
-      <text x="662" y="145" fill="#F7A41D">Monitoring</text>
-      <path d="M665 220 L665 165 L785 165" stroke="#60758C" fill="none"/>
-      <path d="M665 210 L682 200 L698 207 L715 176 L731 190 L747 170 L765 184 L785 160" stroke="#98C379" stroke-width="2" fill="none"/>
-      <text x="662" y="237" fill="#61AFEF">Grafana / Prometheus</text>
-    </g>
-    <path d="M705 255 L705 275 L735 275 L735 282 L705 282 L705 255" fill="#697D91"/>
-
-    <!-- Desk -->
-    <rect x="55" y="285" width="790" height="15" rx="5" fill="url(#desk)"/>
-    <path d="M95 300 L85 390 M805 300 L815 390" stroke="#A66B36" stroke-width="12" stroke-linecap="round"/>
-
-    <!-- Developer chair -->
-    <rect x="350" y="285" width="200" height="110" rx="28" fill="#273A52" stroke="#536B84" stroke-width="3"/>
-    <rect x="390" y="380" width="120" height="9" rx="4" fill="#657C94"/>
-    <path d="M450 389 L450 407 M420 408 L480 408" stroke="#657C94" stroke-width="5" stroke-linecap="round"/>
-
-    <!-- Developer head -->
-    <circle cx="455" cy="176" r="37" fill="#D99A72"/>
-    <path d="M419 173 Q415 132 455 132 Q493 135 490 174 L479 158 Q453 171 425 156 Z" fill="#24202A"/>
-    <circle cx="442" cy="178" r="3" fill="#29212A"/>
-    <circle cx="469" cy="178" r="3" fill="#29212A"/>
-    <path d="M447 194 Q455 200 464 194" fill="none" stroke="#864C42" stroke-width="2" stroke-linecap="round"/>
-
-    <!-- Body -->
-    <path d="M410 220 Q455 198 500 220 L530 285 L380 285 Z" fill="#F7A41D"/>
-    <path d="M425 221 L455 254 L482 221" fill="#E8EDF5"/>
-    <path d="M454 254 L447 285 L465 285 L455 254" fill="#34495E"/>
-
-    <!-- Arms -->
-    <path d="M405 232 Q385 248 355 269 L370 280 Q405 270 425 253" fill="#D99A72"/>
-    <path d="M495 232 Q520 245 545 266 L533 280 Q505 271 480 253" fill="#D99A72"/>
-
-    <!-- Keyboard -->
-    <rect x="365" y="276" width="190" height="9" rx="4" fill="#26374B"/>
-    <g stroke="#60758C" stroke-width="1">
-      <path d="M378 280 H542 M385 276 V284 M402 276 V284 M419 276 V284 M436 276 V284 M453 276 V284 M470 276 V284 M487 276 V284 M504 276 V284 M521 276 V284"/>
-    </g>
-
-    <!-- Coffee -->
-    <rect x="760" y="264" width="35" height="22" rx="5" fill="#D9DDE5"/>
-    <path d="M795 269 Q814 267 804 281 L795 281" fill="none" stroke="#D9DDE5" stroke-width="4"/>
-    <path d="M768 261 Q763 252 771 248 M781 261 Q776 252 784 248" stroke="#E6E6E6" stroke-width="2" fill="none"/>
-
-    <!-- Desk label -->
-    <text x="450" y="350" font-family="monospace" font-size="15" text-anchor="middle" fill="#F7A41D">EAT • SLEEP • CODE • REPEAT</text>
-    <text x="450" y="425" font-family="monospace" font-size="11" text-anchor="middle" fill="#9AADC2">Building scalable systems, one line at a time 🚀</text>
-  </svg>
+  <img
+    src="assets/developer-workspace.svg"
+    width="100%"
+    alt="Developer coding at a multi-monitor workstation"
+  />
 </p>
 
 ---
