@@ -61,9 +61,6 @@ public class MohdAzim extends BackendEngineer {
 
 ## 👨‍💻 Developer Workspace
 
-
-## 👨‍💻 Developer Workspace
-
 <p align="center">
   <img
     src="assets/developer-workspace.svg"
